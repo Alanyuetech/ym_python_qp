@@ -1,0 +1,11 @@
+#忽略所有log文件
+*.log
+#忽略所有 .yml文件
+**/*.yml
+#忽略__pycache__文件夹 
+**/__pycache__
+**/.pylint.d
+#忽略xls 和 xlsx 文件
+# **/*.xls
+# **/*.xlsx
+# **/*.csv
